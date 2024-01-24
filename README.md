@@ -1,7 +1,7 @@
 # hello-world
 
 ## Repository Description:
-- This is my hello-world GitHub repository! In this space, you'll find my first attempt at creating and using a repository. This repository is a placeholder for a project showcasing the classic "hello-world" program.
+- This is my hello-world GitHub repository! In this space, you'll find my first attempt at creating and using a repository.
 
 ## Let's dive into a bit more about me:
 
